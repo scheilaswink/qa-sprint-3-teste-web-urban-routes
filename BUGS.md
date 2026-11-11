@@ -103,7 +103,7 @@ Os IDs (S3-1 a S3-22) são os mesmos que aparecem na coluna "Link para o relató
 4. Clicar no botão reservar
 5. Clicar em método de Pagamento
 6. Clicar em Adicionar cartão
-7. Digitar 0000
+7. Digitar 9999
 8. Clicar no botão Adicionar
 
 **Resultado esperado:** Deve restringir o uso de 9999
