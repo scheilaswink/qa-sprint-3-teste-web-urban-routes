@@ -30,7 +30,9 @@ Verificar se o layout e a lógica do Urban Routes seguem os requisitos: tela ini
 - O campo Número aceita mais de 12 dígitos e símbolos fora dos requisitos.
 - O botão "Adicionar" fica habilitado com número ou código inválido.
 - O cancelamento da reserva não funciona.
-- A rota não aparece no mapa com os nomes dos endereços "De" e "Para".
+- A rota no mapa mostra os nomes dos endereços "De" e "Para" incorretos.
+
+Todos os 22 relatórios estão em [`BUGS.md`](BUGS.md), com etapas para reprodução, resultado esperado e resultado real.
 
 ## Arquivos
 
@@ -40,7 +42,8 @@ Verificar se o layout e a lógica do Urban Routes seguem os requisitos: tela ini
   3. Casos de teste para o botão "Reservar"
   4. Casos de teste para a locação (reserva do carro)
 
-Cada item reprovado tem o link para o relatório de bug no Jira.
+  Cada item reprovado tem o ID do relatório de bug (S3-1 a S3-22).
+- [`BUGS.md`](BUGS.md): os 22 relatórios de bug copiados do Jira, já que o Jira do projeto é privado.
 
 ## O que aprendi
 
